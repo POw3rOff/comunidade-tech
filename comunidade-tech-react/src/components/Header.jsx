@@ -1,0 +1,1 @@
+import React from 'react'; const Header = () => (<header className='p-4 bg-gray-800'> <h1 className='text-cyan-400 text-3xl font-bold'>🌐 Comunidade Tech</h1> </header>); export default Header;

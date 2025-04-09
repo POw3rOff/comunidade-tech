@@ -1,0 +1,1 @@
+import React from 'react'; import Header from './components/Header'; const App = () => (<div className='bg-gray-900 text-white'><Header /></div>); export default App;
